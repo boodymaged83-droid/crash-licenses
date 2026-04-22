@@ -1,0 +1,9 @@
+{
+  "licenses": {
+    "CRASH-AAAABBBBCCCCDDDDEEEE": {
+      "owner": "عميل 1",
+      "status": "active",
+      "expires": "lifetime"
+    }
+  }
+}
