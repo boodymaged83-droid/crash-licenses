@@ -2,7 +2,7 @@
   "licenses": {
     "CRASH-AAAABBBBCCCCDDDDEEEE": {
       "owner": "عميل 1",
-      "status": "active",
+      "status": "blocked",
       "expires": "lifetime"
     }
   }
