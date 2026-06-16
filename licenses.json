@@ -1,9 +1,5 @@
 {
-  "licenses": {
-    "CRASH-AAAABBBBCCCCDDDDEEEE": {
-      "owner": "عميل 1",
-      "status": "blocked",
-      "expires": "lifetime"
-    }
-  }
+  "api_token": "Cooyxfuoufysisisisjshg897ygfchiog",
+  "owner": "عميل 1",
+  "expires": "2026-12-31T23:59:59"
 }
